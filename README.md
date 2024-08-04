@@ -21,17 +21,17 @@ Welcome to the **E-Commerce Automation Framework**! This powerful suite, built w
 #
 .
 ├── tests/
-│ ├── signup.test.js # Sign-Up Process Test
+│ ├── signup.spec.js # Sign-Up Process Test
 
-│ ├── search.test.js # Product Search Test
+│ ├── searchProd.spec.js # Product Search Test
 
-│ ├── order.test.js # End-to-End Order Test
+│ ├── PLacingOrder.spec.js # End-to-End Order Test
 
-│ ├── login.test.js # Login Process Test
+│ ├── login.spec.js # Login Process Test
 
-│ ├── upload.test.js # Document Upload Test
+│ ├── uploadDoc.spec.js # Document Upload Test
 
-│ └── cart.test.js # Cart Management Test
+│ └── DeleteCart.spec.js # Cart Management Test
 ├── utils/
 │ ├── helpers.js # Utility Functions
 
