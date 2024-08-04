@@ -84,10 +84,8 @@ JavaScript Documentation
 We welcome contributions! Please see the Contributing Guidelines for details on how you can help improve this project. 🤝
 
 📧 Contact
-For questions, feedback, or just to say hi, reach out to your-email@example.com. 😊
+For questions, feedback, or just to say hi, reach out to Piyush.B.Bhardwaj@gmail.com 😊
 
-🔗 License
-This project is licensed under the MIT License. 📝
 
 Thank you for checking out the E-Commerce Automation Framework! We hope it makes your e-commerce testing journey smoother and more enjoyable. 🚀
 
