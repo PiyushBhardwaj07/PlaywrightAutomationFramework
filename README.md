@@ -22,17 +22,27 @@ Welcome to the **E-Commerce Automation Framework**! This powerful suite, built w
 .
 ├── tests/
 │ ├── signup.test.js # Sign-Up Process Test
+
 │ ├── search.test.js # Product Search Test
+
 │ ├── order.test.js # End-to-End Order Test
+
 │ ├── login.test.js # Login Process Test
+
 │ ├── upload.test.js # Document Upload Test
+
 │ └── cart.test.js # Cart Management Test
 ├── utils/
 │ ├── helpers.js # Utility Functions
+
 │ ├── config.js # Configuration Settings
+
 │ └── data.js # Test Data
+
 ├── package.json # Project Dependencies
+
 ├── playwright.config.js # Playwright Configuration
+
 └── README.md # Project Documentation
 #
 bash
