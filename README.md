@@ -5,17 +5,17 @@ Welcome to the **E-Commerce Automation Framework**! This powerful suite, built w
 ## 🚀 Key Features
 #
 - **Sign-Up Process**: Automates user registration with form submission and validation. ✍️
-- #
+- 
 - **Product Search**: Efficiently tests and validates product search functionality. 🔍
-- #
+- 
 - **End-to-End Order Journey**: Simulates the entire order process from product selection to checkout. 🛍️
-- #
+- 
 - **Login Process**: Automates user login flow, handling various authentication scenarios. 🔐
-- #
+- 
 - **Document Upload**: Tests the functionality of document uploads within the app. 📄
-- #
+- 
 - **Cart Management**: Automates adding and deleting products from the shopping cart. 🛒
-- #
+  
 
 ## 📁 Project Structure
 #
